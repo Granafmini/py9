@@ -1,4 +1,4 @@
-s=0
+s=0;
 print("sum of natural numbers upto N")
 n=int(input("N="))
 for x in range (1,n+1):
