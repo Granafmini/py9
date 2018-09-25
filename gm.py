@@ -1,4 +1,4 @@
-print("FIND THE SUM OF THE FIRST K INTEGERS")
+print("find the sum of first key integers")
 s=0
 N=int(input("N="))
 k=int(input("k="))
